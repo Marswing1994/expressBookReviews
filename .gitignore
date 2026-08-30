@@ -1,4 +1,7 @@
 # Distribution / packaging
 node_modules
 
+# Local testing artifacts
+final_project/cookies.txt
+final_project/login.json
 
